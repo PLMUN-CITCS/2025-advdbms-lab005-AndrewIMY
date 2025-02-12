@@ -1,4 +1,3 @@
-
 USE `UniversityDB`;
 
 -- Step 2: Update the Email for Bob Johnson
